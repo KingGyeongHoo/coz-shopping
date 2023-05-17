@@ -8,8 +8,8 @@ export const MainListContainer = styled.div`
     flex-wrap:wrap;
     padding:20px;
     align-items: left;
-    justify-content: center;
-    margin-bottom: 40px;
+    justify-content: left;
+    margin:0 0 40px 160px;
     `
 const MainListTitle = styled.p`
     display: block;
