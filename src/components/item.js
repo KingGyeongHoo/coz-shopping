@@ -122,6 +122,7 @@ export default function Item({ item }) {
     font-size:24px;
     color:white;
     font-weight:bold;
+    font-family:'bitbit';
     `
 
     const ItemBoxComponent = () => {
